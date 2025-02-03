@@ -1,1 +1,1 @@
-# power-BI
+This project is on the analysis of the performance of a superstore over four regions in the Unites States. The data used for this project was gotten from an online source and to be regarded as fictional. 
